@@ -1,0 +1,15 @@
+
+Organizing line...
+
+Unsorted list is [9, 8, 7, 6, 5, 4, 3, 2, 1]
+The sorted list is [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+Line contains a decimal/string/blank line. java.lang.NumberFormatException: For input string: ""
+
+Line contains a decimal/string/blank line. java.lang.NumberFormatException: For input string: "bob"
+
+Line contains a decimal/string/blank line. java.lang.NumberFormatException: For input string: "4.366"
+
+Unsorted list is [23, 76, 12, 3, 7, 53, 32]
+The sorted list is [3, 7, 12, 23, 32, 53, 76]
+
